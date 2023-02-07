@@ -25,10 +25,11 @@ Please visit the following link:
 
 - Data Analysis
 
-- Reporting the fndings
+- Reporting 
 
 - Conclusions
 ---
 
-- Preparation of tiny Journal Article
+- Preparation of a `tiny Journal Article`
+
 
