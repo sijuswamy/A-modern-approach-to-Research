@@ -1,0 +1,678 @@
+TY  - JOUR
+T1  - EEG based interpretation of human brain activity during yoga and meditation using machine learning: A systematic review
+AU  - Kora, Padmavathi
+AU  - Meenakshi, K.
+AU  - Swaraja, K.
+AU  - Rajani, A.
+AU  - Raju, Mantena Satyanarayana
+JO  - Complementary Therapies in Clinical Practice
+VL  - 43
+SP  - 101329
+PY  - 2021
+DA  - 2021/05/01/
+SN  - 1744-3881
+DO  - https://doi.org/10.1016/j.ctcp.2021.101329
+UR  - https://www.sciencedirect.com/science/article/pii/S1744388121000281
+KW  - EEG
+KW  - Yoga
+KW  - Meditation
+KW  - Mental health journal
+AB  - Objectives
+The present investigation is to study the impact of yoga and meditation on Brain waves concerning physical and mental health. There are mainly three stages (steps) in the brain wave classification:(i) preprocessing, ii) feature extraction, and iii) classification. This work provides a review of interpretation methods of Brain signals (Electroencephalogram (EEG)) EEG during yoga and meditation. Past research has revealed significant mental and physical advantages with yoga and meditation.
+Methods
+The research topic reviewed focused on the machine learning strategies applied for the interpretation of brain waves. In addressing the research questions highlighted earlier in the general introduction, we conducted a systematic search of articles from targeted scientific and journal online databases that included PubMed, Web of Science, IEEE Xplore Digital Library (IEEE), and Arxiv databases based on their relevance to the research questions and domain topic. The survey topic is relatively nascent, and therefore, the scope of the search period was limited to the 20-year timeline that was deemed representative of the research topic under investigation. The literature search was based on the keywords “EEG”, “yoga*” and “meditation*“. The key phrases were concatenated using Boolean expressions and applied to search through the selected online databases yielding a total of 120 articles. The online databases were selected based on the relevancy of content with the research title, research questions, and the domain application. The literature review search, process, and classification were carefully conducted guided by two defined measures; 1.) Inclusion criteria; and 2.) Exclusion criteria. These measures define the criteria for searching and extracting relevant articles relating to the research title and domain of interest.
+Results
+Our literature search and review indicate a broad spectrum of neural mechanics under a variety of meditation styles have been investigated. A detailed analysis of various mental states using Zen, CHAN, mindfulness, TM, Rajayoga, Kundalini, Yoga, and other meditation styles have been described by means of EEG bands. Classification of mental states using KNN, SVM, Random forest, Fuzzy logic, neural networks, Convolutional Neural Networks has been described. Superior research is still required to classify the EEG signatures corresponding to different mental states.
+Conclusions
+Yoga practice may be an effective adjunctive treatment for a clinical and aging population. Advanced research can examine the effects of specific branches of yoga on a designated clinical grouping. Yoga and meditation increased overall healthy brain activity.
+ER  - 
+
+TY  - JOUR
+T1  - Effect of meditation on psychological distress and brain functioning: A randomized controlled study
+AU  - Travis, Fred
+AU  - Valosek, Laurent
+AU  - Konrad, Arthur
+AU  - Link, Janice
+AU  - Salerno, John
+AU  - Scheller, Ray
+AU  - Nidich, Sanford
+JO  - Brain and Cognition
+VL  - 125
+SP  - 100
+EP  - 105
+PY  - 2018
+DA  - 2018/08/01/
+SN  - 0278-2626
+DO  - https://doi.org/10.1016/j.bandc.2018.03.011
+UR  - https://www.sciencedirect.com/science/article/pii/S0278262617304335
+KW  - Psychological distress
+KW  - Brain integration
+KW  - Transcendental meditation
+KW  - Meditation
+KW  - Mood disturbance
+KW  - EEG
+AB  - Background
+Psychological stability and brain integration are important factors related to physical and mental health and organization effectiveness. This study tested whether a mind-body technique, the Transcendental Meditation (TM) program could increase EEG brain integration and positive affect, and decrease psychological distress in government employees.
+Method
+Ninety-six central office administrators and staff at the San Francisco Unified School District were randomly assigned to either immediate start of the TM program or to a wait-list control group. At baseline and four-month posttest, participants completed an online version of the Profile of Mood States questionnaire (POMS). In addition, a subset of this population (N = 79) had their EEG recorded at baseline and at four-month posttest to calculate Brain Integration Scale (BIS) scores.
+Results
+At posttest, TM participants significantly decreased on the POMS Total Mood Disturbance and anxiety, anger, depression, fatigue, and confusion subscales, and significantly increased in the POMS vigor subscale. TM participants in the EEG-subgroup also significantly increased in BIS scores. Compliance with meditation practice was high (93%).
+Conclusion
+Findings indicate the feasibility and effectiveness of implementing the TM program to improve brain integration and positive affect and reduce psychological distress in government administrators and staff.
+ER  - 
+
+TY  - JOUR
+T1  - Effects of meditation and mind-body exercise on brain-derived neurotrophic factor: A literature review of human experimental studies
+AU  - You, Tongjian
+AU  - Ogawa, Elisa F.
+JO  - Sports Medicine and Health Science
+VL  - 2
+IS  - 1
+SP  - 7
+EP  - 9
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 2666-3376
+DO  - https://doi.org/10.1016/j.smhs.2020.03.001
+UR  - https://www.sciencedirect.com/science/article/pii/S2666337620300056
+KW  - Meditation
+KW  - Mind-body exercise
+KW  - BDNF
+AB  - This paper provides a literature review of current studies investigating the effects of meditation and mind-body exercise on peripheral concentrations of brain-derived neurotrophic factor (BDNF), an important mediator of the neuroplasticity of the central nervous system and cognitive function. A literature search was conducted to collect currently published randomized controlled, non-randomized controlled and uncontrolled intervention studies. Fifteen studies were identified; and among these studies, seven were randomized controlled studies, three were non-randomized studies, and five were uncontrolled studies. Current limited evidence tends to support that mindfulness meditation and mind-body exercise (e.g. yoga and tai chi) increase circulating BDNF concentrations in healthy and diseased individuals. It is noteworthy that these findings are based on current studies with a relatively small sample size, or without a randomized controlled design. Further studies are needed to identify a definite effect of meditation or mind-body exercise on BDNF and its role in improving/maintaining brain functions in various populations.
+ER  - 
+
+TY  - JOUR
+T1  - Short-term meditation induces changes in brain resting EEG theta networks
+AU  - Xue, Shao-Wei
+AU  - Tang, Yi-Yuan
+AU  - Tang, Rongxiang
+AU  - Posner, Michael I.
+JO  - Brain and Cognition
+VL  - 87
+SP  - 1
+EP  - 6
+PY  - 2014
+DA  - 2014/06/01/
+SN  - 0278-2626
+DO  - https://doi.org/10.1016/j.bandc.2014.02.008
+UR  - https://www.sciencedirect.com/science/article/pii/S0278262614000359
+KW  - Brain complex networks
+KW  - EEG
+KW  - Integrative body–mind training
+KW  - Relaxation training
+AB  - Many studies have reported meditation training has beneficial effects on brain structure and function. However, very little is known about meditation-induced changes in brain complex networks. We used network analysis of electroencephalography theta activity data at rest before and after 1-week of integrative body–mind training (IBMT) and relaxation training. The results demonstrated the IBMT group (but not the relaxation group) exhibited significantly smaller average path length and larger clustering coefficient of the entire network and two midline electrode nodes (Fz and Pz) after training, indicating enhanced capacity of local specialization and global information integration in the brain. The findings provide the evidence for meditation-induced network plasticity and suggest that IBMT might be helpful for alterations in brain networks.
+ER  - 
+
+TY  - JOUR
+T1  - The heart-brain axis: A proteomics study of meditation on the cardiovascular system of Tibetan Monks
+AU  - Xue, Ting
+AU  - Chiao, Benjamin
+AU  - Xu, Tianjiao
+AU  - Li, Han
+AU  - Shi, Kai
+AU  - Cheng, Ying
+AU  - Shi, Yuan
+AU  - Guo, Xiaoli
+AU  - Tong, Shanbao
+AU  - Guo, Menglin
+AU  - Chew, Soo Hong
+AU  - Ebstein, Richard P.
+AU  - Cui, Donghong
+JO  - eBioMedicine
+VL  - 80
+SP  - 104026
+PY  - 2022
+DA  - 2022/06/01/
+SN  - 2352-3964
+DO  - https://doi.org/10.1016/j.ebiom.2022.104026
+UR  - https://www.sciencedirect.com/science/article/pii/S2352396422002109
+KW  - Tibetan long-term meditation
+KW  - Advanced multiple proteomics
+KW  - Cardiovascular health
+KW  - Heart-brain axis
+AB  - Summary
+Background
+There have been mixed reports on the beneficial effects of meditation in cardiovascular disease (CVD), which is widely considered the leading cause of death worldwide.
+Methods
+To clarify the role of meditation in modulating the heart-brain axis, we implemented an extreme phenotype strategy, i.e., Tibetan monks (BMI > 30) who practised 19.20 ± 7.82 years of meditation on average and their strictly matched non-meditative Tibetan controls. Hypothesis-free advanced proteomics strategies (Data Independent Acquisition and Targeted Parallel Reaction Monitoring) were jointly applied to systematically investigate and target the plasma proteome underlying meditation. Total cholesterol, low-density lipoprotein cholesterol  (LDL-C), apolipoprotein B (Apo B) and lipoprotein (a) [Lp(a)] as the potential cardiovascular risk factors were evaluated. Heart rate variability (HRV) was assessed by electrocardiogram.
+Findings
+Obesity, hypertension, and reduced HRV is offset by long-term meditation. Notably, meditative monks have blood pressure and HRV comparable to their matched Tibetan controls. Meditative monks have a protective plasma proteome, related to decreased atherosclerosis, enhanced glycolysis, and oxygen release, that confers resilience to the development of CVD. In addition, clinical risk factors in plasma were significantly decreased in monks compared with controls, including total cholesterol, LDL-C, Apo B, and Lp(a).
+Interpretation
+To our knowledge, this work is the first well-controlled proteomics investigation of long-term meditation, which opens up a window for individuals characterized by a sedentary lifestyle to improve their cardiovascular health with an accessible method practised for more than two millennia.
+Funding
+See the Acknowledgements section.
+ER  - 
+
+TY  - JOUR
+AU  - Sierpina, Victor S.
+AU  - Kamprath, Sagar
+JO  - EXPLORE
+VL  - 18
+IS  - 3
+SP  - 379
+EP  - 380
+PY  - 2022
+DA  - 2022/05/01/
+SN  - 1550-8307
+DO  - https://doi.org/10.1016/j.explore.2022.03.003
+UR  - https://www.sciencedirect.com/science/article/pii/S1550830722000350
+ER  - 
+
+TY  - JOUR
+T1  - The Age-Well randomized controlled trial of the Medit-Ageing European project: Effect of meditation or foreign language training on brain and mental health in older adults
+AU  - Poisnel, Géraldine
+AU  - Arenaza-Urquijo, Eider
+AU  - Collette, Fabienne
+AU  - Klimecki, Olga M.
+AU  - Marchant, Natalie L.
+AU  - Wirth, Miranka
+AU  - de La Sayette, Vincent
+AU  - Rauchs, Géraldine
+AU  - Salmon, Eric
+AU  - Vuilleumier, Patrik
+AU  - Frison, Eric
+AU  - Maillard, Aline
+AU  - Vivien, Denis
+AU  - Lutz, Antoine
+AU  - Chételat, Gaël
+JO  - Alzheimer's & Dementia: Translational Research & Clinical Interventions
+VL  - 4
+SP  - 714
+EP  - 723
+PY  - 2018
+DA  - 2018/01/01/
+SN  - 2352-8737
+DO  - https://doi.org/10.1016/j.trci.2018.10.011
+UR  - https://www.sciencedirect.com/science/article/pii/S2352873718300738
+KW  - Aging
+KW  - Alzheimer's disease
+KW  - Dementia
+KW  - Prevention
+KW  - Cognition
+KW  - Reserve
+KW  - Attention
+KW  - Meditation
+KW  - Mindfulness
+KW  - Compassion
+KW  - Foreign language training
+KW  - Emotion
+KW  - Lifestyle
+KW  - Neuroimaging
+KW  - Blood markers
+KW  - Sleep
+AB  - Introduction
+The Age-Well clinical trial is an ongoing monocentric, randomized, controlled trial aiming to assess an 18-month preventive meditation-based intervention directly targeting the attentional and emotional dimensions of aging to promote mental health and well-being in elderly people.
+Methods
+One hundred thirty-seven cognitively unimpaired older adults are randomized to either an 18-month meditation-based intervention, a structurally matched foreign language training, or a passive control arm. The impact of the intervention and underlying mechanisms are assessed with detailed cognitive, behavioral, biological, neuroimaging and sleep examinations.
+Results
+Recruitment began in late 2016 and ended in May 2018. The interventions are ongoing and will be completed by early 2020.
+Discussion
+This is the first trial addressing the emotional and cognitive dimension of aging with a long-term nonpharmacological approach and using comprehensive assessments to investigate the mechanisms. Results are expected to foster the development of preventive strategies reducing the negative impact of mental conditions and disorders.
+ER  - 
+
+TY  - JOUR
+T1  - Is meditation associated with altered brain structure? A systematic review and meta-analysis of morphometric neuroimaging in meditation practitioners
+AU  - Fox, Kieran C.R.
+AU  - Nijeboer, Savannah
+AU  - Dixon, Matthew L.
+AU  - Floman, James L.
+AU  - Ellamil, Melissa
+AU  - Rumak, Samuel P.
+AU  - Sedlmeier, Peter
+AU  - Christoff, Kalina
+JO  - Neuroscience & Biobehavioral Reviews
+VL  - 43
+SP  - 48
+EP  - 73
+PY  - 2014
+DA  - 2014/06/01/
+SN  - 0149-7634
+DO  - https://doi.org/10.1016/j.neubiorev.2014.03.016
+UR  - https://www.sciencedirect.com/science/article/pii/S0149763414000724
+KW  - Meditation
+KW  - Neuroimaging
+KW  - Meta-analysis
+KW  - Systematic review
+KW  - Structural neuroimaging
+KW  - Morphometric neuroimaging
+KW  - Mindfulness
+KW  - Anatomical likelihood estimation
+KW  - Voxel based morphometry
+KW  - Diffusion tensor imaging
+KW  - Gray matter concentration
+KW  - Mental practice
+AB  - Numerous studies have begun to address how the brain's gray and white matter may be shaped by meditation. This research is yet to be integrated, however, and two fundamental questions remain: Is meditation associated with altered brain structure? If so, what is the magnitude of these differences? To address these questions, we reviewed and meta-analyzed 123 brain morphology differences from 21 neuroimaging studies examining ∼300 meditation practitioners. Anatomical likelihood estimation (ALE) meta-analysis found eight brain regions consistently altered in meditators, including areas key to meta-awareness (frontopolar cortex/BA 10), exteroceptive and interoceptive body awareness (sensory cortices and insula), memory consolidation and reconsolidation (hippocampus), self and emotion regulation (anterior and mid cingulate; orbitofrontal cortex), and intra- and interhemispheric communication (superior longitudinal fasciculus; corpus callosum). Effect size meta-analysis (calculating 132 effect sizes from 16 studies) suggests a global ‘medium’ effect size (Cohen's d¯=0.46; r¯=.19). Publication bias and methodological limitations are strong concerns, however. Further research using rigorous methods is required to definitively link meditation practice to altered brain morphology.
+ER  - 
+
+TY  - JOUR
+T1  - Meditation and the brain – Neuronal correlates of mindfulness as assessed with near-infrared spectroscopy
+AU  - Gundel, Friederike
+AU  - von Spee, Johanna
+AU  - Schneider, Sabrina
+AU  - Haeussinger, Florian B.
+AU  - Hautzinger, Martin
+AU  - Erb, Michael
+AU  - Fallgatter, Andreas J.
+AU  - Ehlis, Ann-Christine
+JO  - Psychiatry Research: Neuroimaging
+VL  - 271
+SP  - 24
+EP  - 33
+PY  - 2018
+DA  - 2018/01/30/
+SN  - 0925-4927
+DO  - https://doi.org/10.1016/j.pscychresns.2017.04.002
+UR  - https://www.sciencedirect.com/science/article/pii/S0925492716302360
+KW  - Mindfulness
+KW  - Near-infrared spectroscopy (NIRS)
+KW  - Meditation
+KW  - KIMS-D
+KW  - Auditory cortex
+KW  - DMN
+AB  - Mindfulness meditation as a therapeutic intervention has been shown to have positive effects on psychological problems such as depression, pain or anxiety disorders. In this study, we used functional near-infrared spectroscopy (fNIRS) to detect differences in hemodynamic responses of meditation experts (14 participants) and a control group (16 participants) in a resting and a mindfulness condition. In both conditions, the sound of a meditation bowl was used to find group differences in the auditory system and adjacent cortical areas. Different lateralization patterns of the brain were found in expert meditators while being in a resting state (amplified left hemisphere) or being in mindfulness state (amplified right hemisphere). Compared to the control group, meditation experts had a more widespread pattern of activation in the auditory cortex, while resting. In the mindfulness condition, the control group showed a decrease of activation in higher auditory areas (BA 1, 6 and 40), whereas the meditation experts had a significant increase in those areas. In addition, meditation expert had highly activated brain areas (BA 39, 40, 44 and 45) beyond the meditative task itself, indicating possible long-term changes in the brain and their positive effects on empathy, meta cognitive skills and health.
+ER  - 
+
+TY  - JOUR
+T1  - Pre-existing brain function predicts subsequent practice of mindfulness and compassion meditation
+AU  - Mascaro, Jennifer S.
+AU  - Rilling, James K.
+AU  - Negi, Lobsang Tenzin
+AU  - Raison, Charles L.
+JO  - NeuroImage
+VL  - 69
+SP  - 35
+EP  - 42
+PY  - 2013
+DA  - 2013/04/01/
+SN  - 1053-8119
+DO  - https://doi.org/10.1016/j.neuroimage.2012.12.021
+UR  - https://www.sciencedirect.com/science/article/pii/S1053811912012062
+KW  - Meditation
+KW  - Compassion
+KW  - Mindfulness
+KW  - Anterior insula
+KW  - Amygdala
+KW  - Empathy
+AB  - While a variety of meditation techniques are increasingly employed as health interventions, the fact that meditation requires a significant commitment of time and effort may limit its potential widespread utility. In the current study, we ask whether baseline subjective reports or brain activity in response to a “Pain for Self and Others” paradigm predicts subsequent engagement in mindfulness and compassion meditation. The study also investigated whether compassion training would impact neural responses when compared to an active health education control group. Prior to training, activation of the left and right anterior insula, an area thought to be important for empathy, in response to the Other pain task was positively related to engagement with compassion meditation as measured by practice time (n=13). On the other hand, activity in the left amygdala during the Self pain task was negatively correlated with mindfulness practice time. Following the study intervention, there was no difference between the compassion group (n=13), and the control group (n=8), in brain responses to either the Self or Other task. These results are the first to indicate that baseline neural responses may predict engagement with meditation training and suggest that pre-existing neurobiological profiles differentially predispose individuals to engage with disparate meditation techniques.
+ER  - 
+
+TY  - JOUR
+T1  - Meditation Increases the Entropy of Brain Oscillatory Activity
+AU  - Martínez Vivot, Rocío
+AU  - Pallavicini, Carla
+AU  - Zamberlan, Federico
+AU  - Vigo, Daniel
+AU  - Tagliazucchi, Enzo
+JO  - Neuroscience
+VL  - 431
+SP  - 40
+EP  - 51
+PY  - 2020
+DA  - 2020/04/01/
+SN  - 0306-4522
+DO  - https://doi.org/10.1016/j.neuroscience.2020.01.033
+UR  - https://www.sciencedirect.com/science/article/pii/S0306452220300567
+KW  - meditation
+KW  - EEG
+KW  - entropy
+KW  - alpha oscillations
+KW  - gamma oscillations
+AB  - We address the hypothesis that the entropy of neural dynamics indexes the intensity and quality of conscious content. Previous work established that serotonergic psychedelics can have a dysregulating effect on brain activity, leading to subjective effects that present a considerable overlap with the phenomenology of certain meditative states. Here we propose that the prolonged practice of meditation results in endogenous increased entropy of brain oscillatory activity. We estimated the entropy of band-specific oscillations during the meditative state of traditions classified as ‘focused attention’ (Himalayan Yoga), ‘open monitoring’ (Vipassana), and ‘open awareness’ (Isha Shoonya Yoga). Among all traditions, Vipassana resulted in the highest entropy increases, predominantly in the alpha and low/high gamma bands. In agreement with previous studies, all meditation traditions increased the global coherence in the gamma band, but also stabilized gamma-range dynamics by lowering the metastability. Finally, machine learning classifiers could successfully generalize between certain pairs of meditation traditions based on the scalp distribution of gamma band entropies. Our results extend previous findings on the spectral changes observed during meditation, showing how long-term practice can lead to the capacity for achieving brain states of high entropy. This constitutes an example of an endogenous, self-induced high entropy state.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 6 - Brain regions and networks in meditation
+AU  - Tang, Yi-Yuan
+AU  - Tang, Rongxiang
+A2  - Tang, Yi-Yuan
+A2  - Tang, Rongxiang
+BT  - The Neuroscience of Meditation
+PB  - Academic Press
+SP  - 109
+EP  - 137
+PY  - 2020
+DA  - 2020/01/01/
+SN  - 978-0-12-818266-6
+DO  - https://doi.org/10.1016/B978-0-12-818266-6.00007-1
+UR  - https://www.sciencedirect.com/science/article/pii/B9780128182666000071
+KW  - Cognitive neuroscience
+KW  - meditation
+KW  - interoceptive awareness
+KW  - neuroimaging
+KW  - default mode network
+KW  - gray matter
+KW  - white matter
+KW  - individual differences
+AB  - The brain supports a wide array of daily functions, from monitoring bodily states and associated physiological and metabolic processes to engaging higher-level cognitive processes for fulfilling different task demands. During meditation, specific brain regions and networks involving attention, interoceptive awareness, emotion, and self-related processes are actively engaged to achieve and maintain a meditative state. For individuals who have practiced meditation for an extended period of time, short-term (a few weeks) or long-term (more than a year), changes in brain functional and structural plasticity have often been observed. Recent advances in cognitive neuroscience methods have further inspired the ongoing scientific investigation of brain mechanisms underlying meditation and its related benefits in brain and behavior. The goal of this chapter is to provide a detailed overview of core brain regions and networks involved in meditation and discuss their functional relevance to behavioral outcomes. A tentative brain mechanism of meditation is also discussed in relation to existing findings.
+ER  - 
+
+TY  - JOUR
+T1  - On Mind Wandering, Attention, Brain Networks, and Meditation
+AU  - Sood, Amit
+AU  - Jones, David T.
+JO  - EXPLORE
+VL  - 9
+IS  - 3
+SP  - 136
+EP  - 141
+PY  - 2013
+DA  - 2013/05/01/
+SN  - 1550-8307
+DO  - https://doi.org/10.1016/j.explore.2013.02.005
+UR  - https://www.sciencedirect.com/science/article/pii/S1550830713000487
+KW  - Meditation
+KW  - mind wandering
+KW  - default network
+KW  - attention
+AB  - Human attention selectively focuses on aspects of experience that are threatening, pleasant, or novel. The physical threats of the ancient times have largely been replaced by chronic psychological worries and hurts. The mind gets drawn to these worries and hurts, mostly in the domain of the past and future, leading to mind wandering. In the brain, a network of neurons called the default mode network has been associated with mind wandering. Abnormal activity in the default mode network may predispose to depression, anxiety, attention deficit, and posttraumatic stress disorder. Several studies show that meditation can reverse some of these abnormalities, producing salutary functional and structural changes in the brain. This narrative review presents a mechanistic understanding of meditation in the context of recent advances in neurosciences about mind wandering, attention, and the brain networks.
+ER  - 
+
+TY  - JOUR
+T1  - Online Couple-Based Meditation Intervention for Patients With Primary or Metastatic Brain Tumors and Their Partners: Results of a Pilot Randomized Controlled Trial
+AU  - Milbury, Kathrin
+AU  - Weathers, Shiao-Pei
+AU  - Durrani, Sania
+AU  - Li, Yisheng
+AU  - Whisenant, Meagan
+AU  - Li, Jing
+AU  - Lim, Bora
+AU  - Weinberg, Jeffrey S.
+AU  - Kesler, Shelli R.
+AU  - Cohen, Lorenzo
+AU  - Bruera, Eduardo
+JO  - Journal of Pain and Symptom Management
+VL  - 59
+IS  - 6
+SP  - 1260
+EP  - 1267
+PY  - 2020
+DA  - 2020/06/01/
+SN  - 0885-3924
+DO  - https://doi.org/10.1016/j.jpainsymman.2020.02.004
+UR  - https://www.sciencedirect.com/science/article/pii/S0885392420300889
+KW  - Brain tumor
+KW  - couples
+KW  - videoconference
+KW  - psychosocial intervention
+KW  - meditation
+KW  - caregivers
+KW  - symptoms
+KW  - quality of life
+AB  - Objectives
+Although patients with primary and metastatic brain tumors and their partners are at risk of experiencing high symptom burden, they are often excluded from psychosocial intervention studies. Thus, we sought to examine the feasibility and preliminary efficacy of a couple-based meditation (CBM) program targeting symptom and well-being outcomes.
+Methods
+Couples completed baseline measures assessing symptom and well-being outcomes and were randomized to the CBM or a usual care control group. Couples in the CBM groups attended four weekly (60 minutes each) therapist-led sessions that were delivered via FaceTime (Apple Inc, Cupertino, CA). The CBM program focused on cultivating mindfulness, compassion, gratitude and purpose, and integrated emotional disclosure exercises. Both groups were reassessed six and 12 weeks after baseline.
+Results
+We approached 60 eligible dyads, of which 37 (62%) consented, 35 (95%) were randomized, and 22 (63%) completed all assessments. Couples in the CBM group attended a mean of 3.33 sessions (SD 1.09). For patients, significant group differences in favor of the CBM group were found for cognitive (d = 1.05) and general disease symptoms (d = 0.93), and relationship well-being (d = 0.68) and compassion (d = 0.96). No significant group differences were revealed for partners.
+Conclusion
+It seems to be feasible, acceptable, and possibly efficacious to deliver a dyadic intervention via FaceTime to brain tumor couples. Although both patients and partners in the CBM group rated the intervention as beneficial, significant group differences with medium-to-large effect sizes were only found for patients.
+ER  - 
+
+TY  - JOUR
+T1  - Can hyper-synchrony in meditation lead to seizures? Similarities in meditative and epileptic brain states
+AU  - Lindsay, Shane
+JO  - Medical Hypotheses
+VL  - 83
+IS  - 4
+SP  - 465
+EP  - 472
+PY  - 2014
+DA  - 2014/10/01/
+SN  - 0306-9877
+DO  - https://doi.org/10.1016/j.mehy.2014.07.015
+UR  - https://www.sciencedirect.com/science/article/pii/S0306987714002709
+AB  - Meditation is used worldwide by millions of people for relaxation and stress relief. Given sufficient practice, meditators may also experience a variety of altered states of consciousness. These states can lead to a variety of unusual experiences, including physical, emotional and psychic disturbances. This paper highlights the correspondences between brain states associated with these experiences and the symptoms and neurophysiology of epileptic simple partial seizures. Seizures, like meditation practice, can result in both positive and negative experiences. The neurophysiology and chemistry underlying simple partial seizures are characterised by a high degree of excitability and high levels of neuronal synchrony in gamma-band brain activity. Following a survey of the literature that shows that meditation practice is also linked to high power gamma activity, an account of how meditation could cause such activity is provided. This paper discusses the diagnostic challenges for the claim that meditation practices lead to brain states similar to those found in epileptic seizures, and seeks to develop our understanding of the range of pathological and non-pathological states that result from a hyper-excited and hyper-synchronous brain.
+ER  - 
+
+TY  - JOUR
+T1  - Reductions in perceived stress following Transcendental Meditation practice are associated with increased brain regional connectivity at rest
+AU  - Avvenuti, Giulia
+AU  - Leo, Andrea
+AU  - Cecchetti, Luca
+AU  - Franco, Maria Fatima
+AU  - Travis, Frederick
+AU  - Caramella, Davide
+AU  - Bernardi, Giulio
+AU  - Ricciardi, Emiliano
+AU  - Pietrini, Pietro
+JO  - Brain and Cognition
+VL  - 139
+SP  - 105517
+PY  - 2020
+DA  - 2020/03/01/
+SN  - 0278-2626
+DO  - https://doi.org/10.1016/j.bandc.2020.105517
+UR  - https://www.sciencedirect.com/science/article/pii/S0278262619304786
+KW  - Meditation
+KW  - Functional connectivity
+KW  - Default mode
+KW  - Cortical thickness
+KW  - Anxiety
+AB  - Transcendental Meditation (TM) is defined as a mental process of transcending using a silent mantra. Previous work showed that relatively brief period of TM practice leads to decreases in stress and anxiety. However, whether these changes are subserved by specific morpho-functional brain modifications (as observed in other meditation techniques) is still unclear. Using a longitudinal design, we combined psychometric questionnaires, structural and resting-state functional magnetic resonance imaging (RS-fMRI) to investigate the potential brain modifications underlying the psychological effects of TM. The final sample included 19 naïve subjects instructed to complete two daily 20-min TM sessions, and 15 volunteers in the control group. Both groups were evaluated at recruitment (T0) and after 3 months (T1). At T1, only meditators showed a decrease in perceived anxiety and stress (t(18) = 2.53, p = 0.02), which correlated negatively with T1-T0 changes in functional connectivity among posterior cingulate cortex (PCC), precuneus and left superior parietal lobule. Additionally, TM practice was associated with increased connectivity between PCC and right insula, likely reflecting changes in interoceptive awareness. No structural changes were observed in meditators or control subjects. These preliminary findings indicate that beneficial effects of TM may be mediated by functional brain changes that take place after a short practice period of 3 months.
+ER  - 
+
+TY  - JOUR
+T1  - Meditation training increases brain efficiency in an attention task
+AU  - Kozasa, Elisa H.
+AU  - Sato, João R.
+AU  - Lacerda, Shirley S.
+AU  - Barreiros, Maria A.M.
+AU  - Radvany, João
+AU  - Russell, Tamara A.
+AU  - Sanches, Liana G.
+AU  - Mello, Luiz E.A.M.
+AU  - Amaro, Edson
+JO  - NeuroImage
+VL  - 59
+IS  - 1
+SP  - 745
+EP  - 749
+PY  - 2012
+DA  - 2012/01/02/
+T2  - Neuroergonomics: The human brain in action and at work
+SN  - 1053-8119
+DO  - https://doi.org/10.1016/j.neuroimage.2011.06.088
+UR  - https://www.sciencedirect.com/science/article/pii/S1053811911007531
+KW  - Meditation
+KW  - Stroop
+KW  - Attention
+KW  - fMRI
+AB  - Meditation is a mental training, which involves attention and the ability to maintain focus on a particular object. In this study we have applied a specific attentional task to simply measure the performance of the participants with different levels of meditation experience, rather than evaluating meditation practice per se or task performance during meditation. Our objective was to evaluate the performance of regular meditators and non-meditators during an fMRI adapted Stroop Word-Colour Task (SWCT), which requires attention and impulse control, using a block design paradigm. We selected 20 right-handed regular meditators and 19 non-meditators matched for age, years of education and gender. Participants had to choose the colour (red, blue or green) of single words presented visually in three conditions: congruent, neutral and incongruent. Non-meditators showed greater activity than meditators in the right medial frontal, middle temporal, precentral and postcentral gyri and the lentiform nucleus during the incongruent conditions. No regions were more activated in meditators relative to non-meditators in the same comparison. Non-meditators showed an increased pattern of brain activation relative to regular meditators under the same behavioural performance level. This suggests that meditation training improves efficiency, possibly via improved sustained attention and impulse control.
+ER  - 
+
+TY  - CHAP
+T1  - Chapter 9 - Toward a brain theory of meditation
+AU  - Raffone, Antonino
+AU  - Marzetti, Laura
+AU  - Del Gratta, Cosimo
+AU  - Perrucci, Mauro Gianni
+AU  - Romani, Gian Luca
+AU  - Pizzella, Vittorio
+A2  - Srinivasan, Narayanan
+BT  - Progress in Brain Research
+PB  - Elsevier
+VL  - 244
+SP  - 207
+EP  - 232
+PY  - 2019
+DA  - 2019/01/01/
+T2  - Meditation
+SN  - 0079-6123
+DO  - https://doi.org/10.1016/bs.pbr.2018.10.028
+UR  - https://www.sciencedirect.com/science/article/pii/S0079612318301675
+KW  - Meditation
+KW  - Consciousness
+KW  - Mindfulness
+KW  - Attention
+KW  - Brain network
+KW  - Neuroplasticity
+KW  - Theory
+AB  - The rapidly progressing science of meditation has led to insights about the neural correlates of focused attention meditation (FAM), open monitoring meditation (OMM), compassion meditation (CM) and loving kindness meditation (LKM), in terms of states and traits. However, a unified theoretical understanding of the brain mechanisms involved in meditation-related functions, including mindfulness, is lacking. After reviewing the main forms of meditation and their relationships, the major brain networks and brain states, as well as influential theoretical views of consciousness, we outline a Brain Theory of Meditation (BTM). BTM takes the lead from considerations about the roles of the major brain networks, i.e., the central executive, salience and default mode networks, and their interplay, in meditation, and from an essential energetic limitation of the human brain, such that only up to 1% of the neurons in the cortex can be concurrently activated. The development of the theory is also guided by our neuroscientific studies with the outstanding participation of Theravada Buddhist monks, with other relevant findings in literature. BTM suggests mechanisms for the different forms of meditation, with the down-regulation of brain network activities in FAM, the gating and tuning of network coupling in OMM, and state-related up-regulation effects in CM and LKM. The theory also advances a leftward asymmetry in top-down regulation, and an enhanced inter-hemispheric integration, in meditation states and traits, also with implications for a theoretical understanding of conscious access. Meditation thus provides a meta-function for an efficient brain/mind regulation, and a flexible allocation of highly limited and often constrained (e.g., by negative emotion and mind wandering) brain activity resources, which can be related to mindfulness. Finally, a series of experimental predictions is derived from the theory.
+ER  - 
+
+TY  - JOUR
+T1  - Focused attention meditation in healthy adults: A systematic review and meta-analysis of cross-sectional functional MRI studies
+AU  - Ganesan, Saampras
+AU  - Beyer, Emillie
+AU  - Moffat, Bradford
+AU  - Van Dam, Nicholas T.
+AU  - Lorenzetti, Valentina
+AU  - Zalesky, Andrew
+JO  - Neuroscience & Biobehavioral Reviews
+VL  - 141
+SP  - 104846
+PY  - 2022
+DA  - 2022/10/01/
+SN  - 0149-7634
+DO  - https://doi.org/10.1016/j.neubiorev.2022.104846
+UR  - https://www.sciencedirect.com/science/article/pii/S0149763422003359
+KW  - Meditation
+KW  - Focused attention
+KW  - Systematic review
+KW  - Meta-analysis
+KW  - Activation likelihood estimation
+KW  - Functional MRI
+KW  - Neural correlates
+KW  - Neurocognitive model
+AB  - Meditation trains the mind to focus attention towards an object or experience. Among different meditation techniques, focused attention meditation is considered foundational for more advanced practices. Despite renewed interest in its functional neural correlates, there is no unified neurocognitive model of focused attention meditation developed via quantitative synthesis of contemporary literature. Hence, we performed a quantitative systematic review and meta-analysis of all functional MRI studies examining focussed attention meditation. Following PRISMA guidelines, 28 studies were included in this review, of which 10 studies (200 participants) were amenable to activation likelihood estimation meta-analysis. We found that regions comprising three key functional brain networks i.e., Default-mode, Salience, and Executive Control, were consistently implicated in focused attention meditation. Furthermore, meditation expertise, mindfulness levels and attentional skills were found to significantly influence the magnitude, but not regional extent, of activation and functional connectivity in these networks. Aggregating all evidence, we present a unified neurocognitive brain-network model of focused attention meditation.
+ER  - 
+
+TY  - JOUR
+T1  - Effects of long-term meditation on cognition, electroencephalography and visual evoked potentials derived brain dynamics: A cross-sectional comparative study
+AU  - Vithanage, Kumarangie
+AU  - Chang, Thashi
+AU  - Dissanayake, Dilshani
+JO  - Journal of the Neurological Sciences
+VL  - 429
+SP  - 117682
+PY  - 2021
+DA  - 2021/10/01/
+T2  - Abstracts from the World Congress of Neurology (WCN 2021)
+SN  - 0022-510X
+DO  - https://doi.org/10.1016/j.jns.2021.117682
+UR  - https://www.sciencedirect.com/science/article/pii/S0022510X21003762
+ER  - 
+
+TY  - JOUR
+T1  - Inter-brain co-activations during mindfulness meditation. Implications for devotional and clinical settings
+AU  - Matiz, Alessio
+AU  - Crescentini, Cristiano
+AU  - Bergamasco, Massimo
+AU  - Budai, Riccardo
+AU  - Fabbro, Franco
+JO  - Consciousness and Cognition
+VL  - 95
+SP  - 103210
+PY  - 2021
+DA  - 2021/10/01/
+SN  - 1053-8100
+DO  - https://doi.org/10.1016/j.concog.2021.103210
+UR  - https://www.sciencedirect.com/science/article/pii/S1053810021001367
+KW  - Mindfulness meditation
+KW  - Mind-wandering
+KW  - EEG
+KW  - Hyperscanning
+KW  - Brain coupling
+KW  - Mental synchronization
+KW  - Cingulate gyrus
+AB  - Mindfulness meditation usually takes place as personal, introspective activity. It is not known if this practice activates the brain differently when done alone or with someone else. Sixteen couples of expert meditators performed mindfulness-oriented meditation (MOM) and instructed mind-wandering (IMW) tasks in two conditions: once sitting in the same room (SR) and once in two different rooms (DR). Spontaneous electroencephalographic (EEG) data was collected during 7-minute recording sessions in the four experimental settings (MOM/SR, MOM/DR, IMW/SR, IMW/DR). Power in band was computed in separate clusters of independent components of the EEG signals. In addition to significant task effects, found in frontolimbic (MOM > IMW in gamma) and frontoparietal locations (MOM < IMW in theta), significant condition effects were found in frontal (SR > DR in delta) and in temporo-occipital regions (SR > DR in theta and alpha). Moreover, a significant interaction between task and condition revealed higher gamma activity in limbic areas during MOM/SR vs. MOM/DR settings. This effect was not attributable to gender, age nor the meditation expertise of participants. We thus show that the brains of two people work differently when they are doing something together or alone; some of these differences are specific to mindfulness meditation. Implications for devotional and clinical settings are discussed.
+ER  - 
+
+TY  - JOUR
+T1  - Estimating brain age using high-resolution pattern recognition: Younger brains in long-term meditation practitioners
+AU  - Luders, Eileen
+AU  - Cherbuin, Nicolas
+AU  - Gaser, Christian
+JO  - NeuroImage
+VL  - 134
+SP  - 508
+EP  - 513
+PY  - 2016
+DA  - 2016/07/01/
+SN  - 1053-8119
+DO  - https://doi.org/10.1016/j.neuroimage.2016.04.007
+UR  - https://www.sciencedirect.com/science/article/pii/S1053811916300404
+KW  - Aging
+KW  - Brain
+KW  - Gray matter
+KW  - Meditation
+KW  - Mindfulness
+KW  - MRI
+AB  - Normal aging is known to be accompanied by loss of brain substance. The present study was designed to examine whether the practice of meditation is associated with a reduced brain age. Specific focus was directed at age fifty and beyond, as mid-life is a time when aging processes are known to become more prominent. We applied a recently developed machine learning algorithm trained to identify anatomical correlates of age in the brain translating those into one single score: the BrainAGE index (in years). Using this validated approach based on high-dimensional pattern recognition, we re-analyzed a large sample of 50 long-term meditators and 50 control subjects estimating and comparing their brain ages. We observed that, at age fifty, brains of meditators were estimated to be 7.5years younger than those of controls. In addition, we examined if the brain age estimates change with increasing age. While brain age estimates varied only little in controls, significant changes were detected in meditators: for every additional year over fifty, meditators' brains were estimated to be an additional 1month and 22days younger than their chronological age. Altogether, these findings seem to suggest that meditation is beneficial for brain preservation, effectively protecting against age-related atrophy with a consistently slower rate of brain aging throughout life.
+ER  - 
+
+TY  - JOUR
+T1  - Mindfulness meditation-related pain relief: Evidence for unique brain mechanisms in the regulation of pain
+AU  - Zeidan, F.
+AU  - Grant, J.A.
+AU  - Brown, C.A.
+AU  - McHaffie, J.G.
+AU  - Coghill, R.C.
+JO  - Neuroscience Letters
+VL  - 520
+IS  - 2
+SP  - 165
+EP  - 173
+PY  - 2012
+DA  - 2012/06/29/
+T2  - Neuroimaging of Pain: Insights into normal and pathological pain mechanisms
+SN  - 0304-3940
+DO  - https://doi.org/10.1016/j.neulet.2012.03.082
+UR  - https://www.sciencedirect.com/science/article/pii/S0304394012004806
+KW  - Mindfulness
+KW  - Meditation
+KW  - Pain
+KW  - Neuroimaging
+AB  - The cognitive modulation of pain is influenced by a number of factors ranging from attention, beliefs, conditioning, expectations, mood, and the regulation of emotional responses to noxious sensory events. Recently, mindfulness meditation has been found attenuate pain through some of these mechanisms including enhanced cognitive and emotional control, as well as altering the contextual evaluation of sensory events. This review discusses the brain mechanisms involved in mindfulness meditation-related pain relief across different meditative techniques, expertise and training levels, experimental procedures, and neuroimaging methodologies. Converging lines of neuroimaging evidence reveal that mindfulness meditation-related pain relief is associated with unique appraisal cognitive processes depending on expertise level and meditation tradition. Moreover, it is postulated that mindfulness meditation-related pain relief may share a common final pathway with other cognitive techniques in the modulation of pain.
+ER  - 
+
+TY  - JOUR
+T1  - Influence of long-term Sahaja Yoga meditation practice on emotional processing in the brain: An ERP study
+AU  - Reva, N.V.
+AU  - Pavlov, S.V.
+AU  - Loktev, K.V.
+AU  - Korenyok, V.V.
+AU  - Aftanas, L.I.
+JO  - Neuroscience
+VL  - 281
+SP  - 195
+EP  - 201
+PY  - 2014
+DA  - 2014/12/05/
+SN  - 0306-4522
+DO  - https://doi.org/10.1016/j.neuroscience.2014.09.053
+UR  - https://www.sciencedirect.com/science/article/pii/S0306452214008045
+KW  - meditation
+KW  - mindfulness
+KW  - emotion
+KW  - ERP
+KW  - affective images
+AB  - Despite growing interest in meditation as a tool for alternative therapy of stress-related and psychosomatic diseases, brain mechanisms of beneficial influences of meditation practice on health and quality of life are still unclear. We propose that the key point is a persistent change in emotional functioning, specifically the modulation of the early appraisal of motivational significance of events. The main aim was to study the effects of long-term meditation practice on event-related brain potentials (ERPs) during affective picture viewing. ERPs were recorded in 20 long-term Sahaja Yoga meditators and 20 control subjects without prior experience in meditation. The meditators’ mid-latency (140–400ms) ERPs were attenuated for both positive and negative pictures (i.e. there were no arousal-related increases in ERP positivity) and this effect was more prominent over the right hemisphere. However, we found no differences in the long latency (400–800ms) responses to emotional images, associated with meditation practice. In addition we found stronger ERP negativity in the time window 200–300ms for meditators compared to the controls, regardless of picture valence. We assume that long-term meditation practice enhances frontal top-down control over fast automatic salience detection, based on amygdala functions.
+ER  - 
+
+TY  - JOUR
+T1  - Meditation is associated with increased brain network integration
+AU  - van Lutterveld, Remko
+AU  - van Dellen, Edwin
+AU  - Pal, Prasanta
+AU  - Yang, Hua
+AU  - Stam, Cornelis Jan
+AU  - Brewer, Judson
+JO  - NeuroImage
+VL  - 158
+SP  - 18
+EP  - 25
+PY  - 2017
+DA  - 2017/09/01/
+SN  - 1053-8119
+DO  - https://doi.org/10.1016/j.neuroimage.2017.06.071
+UR  - https://www.sciencedirect.com/science/article/pii/S1053811917305426
+AB  - Introduction
+This study aims to identify novel quantitative EEG measures associated with mindfulness meditation. As there is some evidence that meditation is associated with higher integration of brain networks, we focused on EEG measures of network integration.
+Methods
+Sixteen novice meditators and sixteen experienced meditators participated in the study. Novice meditators performed a basic meditation practice that supported effortless awareness, which is an important quality of experience related to mindfulness practices, while their EEG was recorded. Experienced meditators performed a self-selected meditation practice that supported effortless awareness. Network integration was analyzed with maximum betweenness centrality and leaf fraction (which both correlate positively with network integration) as well as with diameter and average eccentricity (which both correlate negatively with network integration), based on a phase-lag index (PLI) and minimum spanning tree (MST) approach. Differences between groups were assessed using repeated-measures ANOVA for the theta (4–8 Hz), alpha (8–13 Hz) and lower beta (13–20 Hz) frequency bands.
+Results
+Maximum betweenness centrality was significantly higher in experienced meditators than in novices (P = 0.012) in the alpha band. In the same frequency band, leaf fraction showed a trend toward being significantly higher in experienced meditators than in novices (P = 0.056), while diameter and average eccentricity were significantly lower in experienced meditators than in novices (P = 0.016 and P = 0.028 respectively). No significant differences between groups were observed for the theta and beta frequency bands.
+Conclusion
+These results show that alpha band functional network topology is better integrated in experienced meditators than in novice meditators during meditation. This novel finding provides the rationale to investigate the temporal relation between measures of functional connectivity network integration and meditation quality, for example using neurophenomenology experiments.
+ER  - 
