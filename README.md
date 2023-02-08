@@ -1,5 +1,5 @@
 # A-Modern-Approach-to-Research
-Course repository for the FDP on research methodology
+Course repository for the FDP on Advanced Research Methodology
 ---
 ## Basics of Research Design
 
@@ -7,7 +7,7 @@ Course repository for the FDP on research methodology
 
 ## A Working model of `tiny research`
 
-> **What people says?**  Guided meditations will evoked positive brain responses. The pitch and tone of the guidnece/ music produces sensations in the right auditory cortex and may have impact in the prefrontal cortex. So a guided meditation has a supreb impact in brain functions. A fine tuned music/ guidence has a non-linear relationship with brain impulses.
+> **What people says?**  Guided meditations will evoked positive brain responses. The pitch and tone of the guidance/ music produces sensations in the right auditory cortex and may have impact in the prefrontal cortex. So a guided meditation has a superb impact in brain functions. A fine tuned music/ guidance has a non-linear relationship with brain impulses.
 ---
 - Problem Identification
 
