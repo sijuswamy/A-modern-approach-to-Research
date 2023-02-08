@@ -5,6 +5,12 @@ Course repository for the FDP on Advanced Research Methodology
 
 ## Data Collection of Experimental or Exploratory Researches
 
+## Bibliometric Analysis 
+
+Software link
+
+<https://www.vosviewer.com/download>
+
 ## A Working model of `tiny research`
 
 > **What people says?**  Guided meditations will evoked positive brain responses. The pitch and tone of the guidance/ music produces sensations in the right auditory cortex and may have impact in the prefrontal cortex. So a guided meditation has a superb impact in brain functions. A fine tuned music/ guidance has a non-linear relationship with brain impulses.
