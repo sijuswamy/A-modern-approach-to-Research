@@ -3,13 +3,16 @@ Course repository for the FDP on Advanced Research Methodology
 ---
 ## Basics of Research Design
 
-## Data Collection of Experimental or Exploratory Researches
+## Bibliometric Databse Creation and Analysis 
 
-## Bibliometric Analysis 
-
-Software link
+Software download links:
+<https://www.fosshub.com/JabRef.html>
 
 <https://www.vosviewer.com/download>
+
+
+## Data Collection of Experimental or Exploratory Researches
+
 
 ## A Working model of `tiny research`
 
