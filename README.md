@@ -1,6 +1,35 @@
 # A-Modern-Approach-to-Research
 Course repository for the FDP on Advanced Research Methodology
 ---
+# Day-2 Contents
+
+## Task-1
+
+First task in Day-2 session is to complete the analysis part by running chunk by chunk. Finally knit the document to get an html report of the analysis.
+
+Second task is to convert the analysis into an elsevier journal paper. The procedure is as follows.
+
+- Step 1: Install the package `rticles` using install package option from the `tools` menu of `RStudio`.
+
+- Step 2: Create a new `Rmarkdown` file from `file` menu.
+
+- Click on `From template` option in the left pane.
+
+- Select the `Elsevier Journal Article` template
+
+- Follow the remaining instructions to create an elsevier article template
+
+- Step 3: Knit the `Rmarkdown` file to get the pdf article.
+
+
+## Task-2
+
+Now replace the entire contents of the current working template with the contents from following link
+<>
+
+
+# Day-1 Contents
+
 ## Basics of Research Design
 
 ## Bibliometric Database Creation and Analysis 
@@ -30,6 +59,7 @@ Please visit the following link:
 - Research Design
 
 ---
+
 
 - Conduct of Experiment and data collection
 
