@@ -3,7 +3,7 @@ Course repository for the FDP on Advanced Research Methodology
 ---
 ## Basics of Research Design
 
-## Bibliometric Databse Creation and Analysis 
+## Bibliometric Database Creation and Analysis 
 
 Software download links:
 
