@@ -22,11 +22,13 @@ Second task is to convert the analysis into an elsevier journal paper. The proce
 - Step 3: Knit the `Rmarkdown` file to get the pdf article.
 
 
-## Task-2
+## Task-2: Create an Elsevier article of the work 
 
 Now replace the entire contents of the current working template with the contents from following link
-<>
 
+<https://github.com/sijuswamy/A-modern-approach-to-Research/blob/main/Journal_contents.Rmd>
+
+---
 
 # Day-1 Contents
 
