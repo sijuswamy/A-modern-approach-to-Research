@@ -75,4 +75,8 @@ Please visit the following link:
 
 - Preparation of a `tiny Journal Article`
 
+## Additional resources
 
+Copy the following file to Posit cloud and rund to get the complete analysis:
+
+<>
