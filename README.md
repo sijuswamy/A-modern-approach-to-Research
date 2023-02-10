@@ -5,7 +5,7 @@ Course repository for the FDP on Advanced Research Methodology
 
 ## Task-1
 
-First task in Day-2 session is to complete the analysis part of the study by running codes chunk by chunk. For this go to the link <>  copy the entire code and update the content of existing `Research Methodology Workshop Sourse.Rmd`. Finally `knit` the document to get an html report of the analysis.
+First task in Day-2 session is to complete the analysis part of the study by running codes chunk by chunk. For this go to the link <https://github.com/sijuswamy/A-modern-approach-to-Research/blob/main/Research%20Methodology%20Workshop%20Source.Rmd>  copy the entire code and update the content of existing `Research Methodology Workshop Sourse.Rmd`. Finally `knit` the document to get an html report of the analysis.
 
 ## Task-2
 Second task is to convert the analysis into an elsevier journal paper. The procedure is as follows.
