@@ -77,6 +77,6 @@ Please visit the following link:
 
 ## Additional resources
 
-Copy the following file to Posit cloud and rund to get the complete analysis:
+>Link to Statistical Analysis Using R manual:
 
-<>
+<https://bookdown.org/siju_swamy/Stat_Lab/>
