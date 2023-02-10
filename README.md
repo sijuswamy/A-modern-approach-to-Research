@@ -75,6 +75,12 @@ Please visit the following link:
 
 - Preparation of a `tiny Journal Article`
 
+## Bibliometric Analysis Using RStudio
+
+Have a visit at:
+
+<https://www.bibliometrix.org/home/>
+
 ## Additional resources
 
 >Link to Statistical Analysis Using R manual:
